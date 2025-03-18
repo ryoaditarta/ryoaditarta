@@ -1,14 +1,12 @@
 <div align="center">
 <h1 style="text-align:left;">About Me</h1>
 
-<!-- <img src="https://media1.tenor.com/m/zXCbu7b7qA8AAAAd/bocchi-the-rock-bocchi-the-rock-gif.gif" width="400"/> -->
-
 </div>
 
 <div>
 
 <h2>Hi there 👋, I'm Ryo.  </h2>
-I have interest in computer network, cybersecurity and competitive programming. Currently learning new stacks such as nextjs and jetpack compose. I'm also open for front end and android developer position, feel free to contact me if you need anything.
+I have interest in computer network and cybersecurity. Currently learning new stacks for Security Operation Center Automation Framework like Wazuh, Shuffle, TheHive, and Cortex. 
 </div>
 
 
@@ -55,7 +53,6 @@ I have interest in computer network, cybersecurity and competitive programming. 
     <td><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="PostgreSQL Badge"></img>
-      <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white">
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
     </td>
   </tr>
@@ -71,7 +68,6 @@ I have interest in computer network, cybersecurity and competitive programming. 
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim Badge"></img>
       <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
       <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
