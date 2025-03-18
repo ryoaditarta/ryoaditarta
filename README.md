@@ -63,6 +63,7 @@ I have interest in computer network and cybersecurity. Currently learning new st
             <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge"></img>
             <img src="https://img.shields.io/badge/Tailscale-0057FF?logo=tailscale&logoColor=white&style=for-the-badge" alt="Tailscale Badge">
             <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge" alt="Nginx Badge"></img>
+            <img src="https://img.shields.io/badge/Wazuh-5A0FC8?logo=wazuh&logoColor=white&style=for-the-badge" alt="Wazuh Badge">
     </td>
   </tr>
   <tr>
@@ -73,7 +74,7 @@ I have interest in computer network and cybersecurity. Currently learning new st
       <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-      <img src="https://img.shields.io/badge/Wazuh-5A0FC8?logo=wazuh&logoColor=white&style=for-the-badge" alt="Wazuh Badge">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge">
     </td>
   </tr>
 </table>
