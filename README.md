@@ -61,7 +61,7 @@ I have interest in computer network and cybersecurity. Currently learning new st
     <td>
             <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge" alt="Amazon AWS Badge"></img>
             <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge"></img>
-            <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge" alt="Cloudflare Badge"></img>
+            <img src="https://img.shields.io/badge/Tailscale-0057FF?logo=tailscale&logoColor=white&style=for-the-badge" alt="Tailscale Badge">
             <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge" alt="Nginx Badge"></img>
     </td>
   </tr>
