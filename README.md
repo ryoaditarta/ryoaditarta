@@ -39,7 +39,7 @@ I have interest in computer network and cybersecurity. Currently learning new st
     </td>
   </tr>
   <tr>
-    <td><b>Framework</b></td>
+    <td><b>Dev Framework</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge"></img>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
@@ -78,6 +78,7 @@ I have interest in computer network and cybersecurity. Currently learning new st
     </td>
   </tr>
 </table>
+
 
 <!-- 
 <h2>🗃️ Alt Github Account </h2>
